@@ -28,8 +28,8 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
-    "test": "jest",
-    "postinstall": "husky install"
+    "test": "jest"
+
   },
   "dependencies": {
     "@heroicons/react": "2.0.13",

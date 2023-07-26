@@ -23,18 +23,8 @@
     "css-modules",
     "eslint",
     "prettier",
-    "husky",
     "commit-lint"
   ],
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not IE 11"
-  ],
-  "engines": {
-    "node": ">=14",
-    "yarn": ">=1.22.5"
-  },
   "scripts": {
     "start": "vite",
     "build": "vite build",
